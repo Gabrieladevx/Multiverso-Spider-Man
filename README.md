@@ -18,7 +18,8 @@ Um projeto web moderno e responsivo que apresenta as diferentes versões do Home
 - `assets/scripts/`: Scripts JS para interatividade
 
 ## Como rodar
-Acesse diretamente no link do GitHub Pages ou abra o arquivo `index.html` no navegador.
+Acesse diretamente no link abaixo:
+[https://gabrieladevx.github.io/Multiverso-Spider-Man/]
 
 ## Créditos
 Desenvolvido por Gabriela Alves • 2025
