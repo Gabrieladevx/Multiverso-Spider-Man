@@ -18,5 +18,11 @@ Um projeto web moderno e responsivo que apresenta as diferentes versões do Home
 - `assets/scripts/`: Scripts JS para interatividade
 
 ## Como rodar
-Acesse diretamente no Link Abaixo:
-[]
+Acesse diretamente no link do GitHub Pages ou abra o arquivo `index.html` no navegador.
+
+## Créditos
+Desenvolvido por Gabriela Alves • 2025
+
+---
+
+Sinta-se à vontade para customizar e expandir o multiverso!
