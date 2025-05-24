@@ -23,7 +23,3 @@ Acesse diretamente no link abaixo:
 
 ## Créditos
 Desenvolvido por Gabriela Alves • 2025
-
----
-
-Sinta-se à vontade para customizar e expandir o multiverso!
